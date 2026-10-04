@@ -1,0 +1,2 @@
+DB_PASSWORD=secret
+JWT_SECRET=secret
